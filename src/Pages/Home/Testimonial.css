@@ -1,0 +1,74 @@
+
+/* html,
+body {
+  position: relative;
+  height: 100%;
+} */
+
+/* body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 4px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+} */
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #F0F0F0;
+  border: 3px solid #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper-button-prev {
+    left: 40px;
+}
+
+.swiper-button-next{
+    right: auto;
+    left: 100px;
+
+}
+.swiper-button-prev, .swiper-button-next {
+    top: unset !important;
+    position: absolute;
+    bottom: 30px;
+    background-color: #d1d1d1;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.swiper-button-prev::after, .swiper-button-next::after {
+    font-size: 18px;
+    color: #201F47;
+}
+.swiper-button-prev:hover, .swiper-button-next:hover {
+    background-color: #F0B246;
+}

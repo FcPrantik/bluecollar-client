@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "B002RL8IYK",
+        "name": "Basic",
+        "info": [
+            "Electrical Service",
+            "Distribution Power Systems",
+            "High & Medium Voltages",
+            "Industrial Control Systems",
+            "Switch Installation",
+            "Generator Installations",
+            "Innovative Construction"
+        ],
+        "price": 599.00
+    },
+    {
+        "_id": "B002RL8IYL",
+        "name": "Standard",
+        "info": [
+            "PLC Controls",
+            "Conveyor Systems",
+            "Wiring Renovations",
+            "Electric Water Heater Repair",
+            "Service And Panel Upgrades",
+            "Efficient Lighting Solutions",
+            "Site Lighting"
+        ],
+        "price": 699.00
+    },
+    {
+        "_id": "B002RL8IYM",
+        "name": "Professional",
+        "info": [
+            "Cable Tray Installations",
+            "Wiring Upgrades",
+            "Energy Efficient Lighting",
+            "Industrial Control Systems",
+            "Emergency Generating",
+            "Pools And Hot Tubs",
+            "Air Conditioning Units"
+        ],
+        "price": 799.00
+    }
+]

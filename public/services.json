@@ -1,0 +1,38 @@
+[
+    {
+        "id": "B002RL8IYK",
+        "name": "Air Condition Service",
+        "info": "Services are able to service your entire electrical infrastructure from Thermal Imaging of your air condition from switch boards.",
+        "img": "https://i.ibb.co/f4qS1Wh/img1.png"
+    },
+    {
+        "id": "B01LZ2WZGH",
+        "name": "Electrical Installation",
+        "info": "The art electrical installations that provide all the necessary electrical solutions to suit your business, home or industrial premises.",
+        "img": "https://i.ibb.co/mJsMqSX/img2.png"
+    },
+    {
+        "id": "B01K1IO3QW",
+        "name": "General Builder",
+        "info": "We provide impeccable safety assessments to both commercial, residential properties. Our adept & knowledgeable electricians.",
+        "img": "https://i.ibb.co/gMgqtkZ/img3.png"
+    },
+    {
+        "id": "B01LD4MGY4",
+        "name": "Security System",
+        "info": "Utilized for measuring flow, temperature level & pressure in the manufacturing industry array of technology is ensure productivity.",
+        "img": "https://i.ibb.co/B4JM6BD/img4.png"
+    },
+    {
+        "id": "B01M18UZF5",
+        "name": "Service & Maintenance",
+        "info": "Electrical Services are able to service your entire electrical infrastructure from Thermal Imaging of your switch boards.",
+        "img": "https://i.ibb.co/F7Tz7rV/img5.png"
+    },
+    {
+        "id": "B01DBGVB7K",
+        "name": "House Extensions",
+        "info": "Traditionally, electricity is supplied through overhead network poles, where the cable is connected to your building.",
+        "img": "https://i.ibb.co/FJB1XVb/img6.png"
+    }
+]
